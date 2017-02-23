@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\GetVowel\bin\Debug\GetVowel.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\GetVowel\bin\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\GetVowel\bin\Debug\GetVowel.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\GetVowel\obj\Debug\GetVowel.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\GetVowel\obj\Debug\GetVowel.pdb
