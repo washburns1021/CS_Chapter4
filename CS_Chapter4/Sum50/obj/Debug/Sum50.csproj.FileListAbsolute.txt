@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\obj\Debug\Sum50.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\obj\Debug\Sum50.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum50\obj\Debug\Sum50.pdb
